@@ -13,34 +13,25 @@ Artificial Neural Network (ANN): The architecture of the Artificial Neural Netwo
 
 Conclusion: In summary, the "Digit Recognition using Artificial Neural Networks (ANN)" project showcases the prowess of deep learning in accurately classifying handwritten digits. By demonstrating the application of ANN in image recognition tasks, the project lays the foundation for further exploration and advancement in the field of computer vision and deep learning.
 
+
 ## Algorithm :
 
 Load the MNIST dataset containing handwritten digit images and labels.
-Preprocess the dataset:
 
 Normalize the pixel values of the images to a suitable range.
+
 Format the labels to prepare them for training.
 
-Design the architecture of the Artificial Neural Network:
 Define the number of layers, neurons in each layer, and the activation functions.
 
 Initialize the weights and biases for the neural network.
-Set the hyperparameters for training the model:
-Define the learning rate, number of epochs, and batch size.
 
-Train the Artificial Neural Network:
 Iterate through the training data for the specified number of epochs.
 
 Implement the feedforward mechanism to propagate input data through the network.
+
 Utilize backpropagation to update the weights and biases, minimizing the loss function.
 
-Evaluate the trained model:
-Use the test dataset to assess the model's performance.
-Calculate metrics such as accuracy, precision, recall, and the F1 score.
-
-Deploy the model:
-Create a user-friendly interface for users to input their own handwritten digits.
-Implement the functionality to visualize the model's predictions in real time.
 Conclude the project, highlighting the success of the ANN in accurately recognizing and classifying handwritten digits.
 
 
@@ -120,5 +111,20 @@ new_img.shape
 
 ## Output :
 
+![image](https://github.com/soundariyan18/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/119393307/5f321140-4202-4ea5-afeb-0efc86b9f947)
+
+![image](https://github.com/soundariyan18/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/119393307/3966af7b-01bf-4e2a-addf-00c7ddf3c371)
+
+![image](https://github.com/soundariyan18/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/119393307/b6449ef7-ab82-4d64-9b52-ac84713dbd8f)
+
+![image](https://github.com/soundariyan18/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/119393307/e9cdee06-8e9a-47e1-8cf9-124991daad66)
+
+![image](https://github.com/soundariyan18/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/119393307/8bfb0a73-c5b3-47bb-b2e4-4c713c4d35ee)
+
+![image](https://github.com/soundariyan18/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/119393307/08b34dea-9bd6-442f-9a35-6089e3f62e92)
+
+
 
 ## Result:
+
+Thus The Implementation of Handwritten Digit Recognition using MLP Is Executed Successfully.
